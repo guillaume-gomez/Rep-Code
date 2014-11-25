@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1328607451 source:d:\mes dossiers\travaux cours tp td\rep&cod\tp2\tp2\src\color.cpp
+	<iostream>
+	<stdexcept>
+	"../include/Color.h"
+
+1328607451 d:\mes dossiers\travaux cours tp td\rep&cod\tp2\tp2\include\color.h
+
+1328607492 source:d:\mes dossiers\travaux cours tp td\rep&cod\tp2\tp2\main.cpp
+	<iostream>
+	<fstream>
+	<stdexcept>
+	"include/Image.hpp"
+	"include/Color.h"
+
+1328608157 d:\mes dossiers\travaux cours tp td\rep&cod\tp2\tp2\include\image.hpp
+	<iostream>
+	<ostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<ctime>
+	"Color.h"
+

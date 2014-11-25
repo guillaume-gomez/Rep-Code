@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1332174267 source:d:\mes dossiers\travaux cours tp td\rep&cod\tp4tga\src\color.cpp
+	<iostream>
+	<stdexcept>
+	"../include/Color.h"
+
+1332170667 e/Color.h"
+
+1332172866 d:\mes dossiers\travaux cours tp td\rep&cod\tp4tga\include\color.h
+	<iostream>
+
+1332151269 
+
+1336679032 source:d:\mes dossiers\travaux cours tp td\rep&cod\tp4tga\main.cpp
+	<stdexcept>
+	"include/Image.hpp"
+	"include/Color.h"
+
+1332170625 olor.h"
+
+1341237178 d:\mes dossiers\travaux cours tp td\rep&cod\tp4tga\include\image.hpp
+	<iostream>
+	<ostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<iostream>
+	<jpeglib.h>
+	<setjmp.h>
+	<ctime>
+	<cstring>
+	"Palette.h"
+
+1332170691 "
+
+1116156868 c:\program files (x86)\gnuwin32\include\jpeglib.h
+	"jconfig.h"
+	"jmorecfg.h"
+	"jpegint.h"
+	"jerror.h"
+
+1116084264 c:\program files (x86)\gnuwin32\include\jconfig.h
+	<windows.h>
+
+1116080664 >
+
+1116083860 c:\program files (x86)\gnuwin32\include\jmorecfg.h
+
+1116142940 c:\program files (x86)\gnuwin32\include\jerror.h
+
+1332154869 d:\mes dossiers\travaux cours tp td\rep&cod\tp4tga\include\palette.h
+	"Color.h"
+	<iostream>
+	<vector>
+
+1331593789 source:d:\mes dossiers\travaux cours tp td\rep&cod\tp4tga\src\palette.cpp
+	"../include/Palette.h"
+
+1331590189 e/Palette.h"
+
+1332174545 source:/DATA/mes dossiers/travaux cours tp td/rep&cod/tp4tga/main.cpp
+	<stdexcept>
+	"include/Image.hpp"
+	"include/Color.h"
+
+1332716598 /DATA/mes dossiers/travaux cours tp td/rep&cod/tp4tga/include/Image.hpp
+	<iostream>
+	<ostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<iostream>
+	<jpeglib.h>
+	<setjmp.h>
+	<ctime>
+	<cstring>
+	"Palette.h"
+
+1332151269 /DATA/mes dossiers/travaux cours tp td/rep&cod/tp4tga/include/Palette.h
+	"Color.h"
+	<iostream>
+	<vector>
+
+1332169266 /DATA/mes dossiers/travaux cours tp td/rep&cod/tp4tga/include/Color.h
+	<iostream>
+
+1332170667 source:/DATA/mes dossiers/travaux cours tp td/rep&cod/tp4tga/src/Color.cpp
+	<iostream>
+	<stdexcept>
+	"../include/Color.h"
+
+1331590189 source:/DATA/mes dossiers/travaux cours tp td/rep&cod/tp4tga/src/Palette.cpp
+	"../include/Palette.h"
+

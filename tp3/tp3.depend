@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1329731214 source:d:\mes dossiers\travaux cours tp td\rep&cod\tp3\src\color.cpp
+	<iostream>
+	<stdexcept>
+	"../include/Color.h"
+
+1328607451 d:\mes dossiers\travaux cours tp td\rep&cod\tp3\include\color.h
+
+1329578415 source:d:\mes dossiers\travaux cours tp td\rep&cod\tp3\main.cpp
+	<iostream>
+	<fstream>
+	<stdexcept>
+	"include/Image.hpp"
+	"include/Color.h"
+
+1329732471 d:\mes dossiers\travaux cours tp td\rep&cod\tp3\include\image.hpp
+	<iostream>
+	<ostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<iostream>
+	<jpeglib.h>
+	<setjmp.h>
+	<ctime>
+	"Color.h"
+
+1116153268 c:\program files (x86)\gnuwin32\include\jpeglib.h
+	"jconfig.h"
+	"jmorecfg.h"
+	"jpegint.h"
+	"jerror.h"
+
+1116080664 c:\program files (x86)\gnuwin32\include\jconfig.h
+	<windows.h>
+
+1116080260 c:\program files (x86)\gnuwin32\include\jmorecfg.h
+
+1116139340 c:\program files (x86)\gnuwin32\include\jerror.h
+
